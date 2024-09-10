@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Bie Chai
 
-# Your Github username
+# Shadow-B-1
