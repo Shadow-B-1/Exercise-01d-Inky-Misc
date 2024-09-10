@@ -85,6 +85,8 @@ You see a fish, catch it or go back?
 == Catch ==
 Congrats. you caught the fish.
 
+It is { advance_time () }
+
 -> seashore
 
 
